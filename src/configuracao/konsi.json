@@ -1,0 +1,64 @@
+{
+    "url": "http://extratoclube.com.br/",
+    "host": "http://extratoblubeapp-env.eba-mvegshhd.sa-east-1.elasticbeanstalk.com",
+    "logado": "/usuario/logado",
+    "login": "/login",
+    "consulta": "/offline/listagem/",
+    "header_site": 
+        {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+            "Cache-Control": "max-age=0",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+        }
+    ,
+    "header_login_options": 
+        {
+            "Accept": "*/*",
+            "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+            "Access-Control-Request-Headers": "content-type",
+            "Access-Control-Request-Method": "POST",
+            "Connection": "keep-alive",
+            "Origin": "http://ionic-application.s3-website-sa-east-1.amazonaws.com",
+            "Referer": "http://ionic-application.s3-website-sa-east-1.amazonaws.com/",
+            "Sec-Fetch-Mode": "cors",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+        }
+    ,
+    "header_login_post": 
+        {
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+            "Connection": "keep-alive",
+            "Content-Type": "application/json",
+            "Origin": "http://ionic-application.s3-website-sa-east-1.amazonaws.com",
+            "Referer": "http://ionic-application.s3-website-sa-east-1.amazonaws.com/",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+        }
+    ,
+    "header_logado": 
+        {
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+            "Authorization": "",
+            "Connection": "keep-alive",
+            "Origin": "http://ionic-application.s3-website-sa-east-1.amazonaws.com",
+            "Referer": "http://ionic-application.s3-website-sa-east-1.amazonaws.com/",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+        }
+    ,
+    "header_consulta":
+        {
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+            "Authorization": "",
+            "Connection": "keep-alive",
+            "Origin": "http://ionic-application.s3-website-sa-east-1.amazonaws.com",
+            "Referer": "http://ionic-application.s3-website-sa-east-1.amazonaws.com/",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+        }
+        
+
+}

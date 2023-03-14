@@ -46,3 +46,63 @@ O cliente tem que ser capaz de pegar o dado quando o processamento termina, ent�
 
 
 *Happy coding! :-)*
+
+
+## Projeto
+
+Api rest + swagger + flask + python + thread
+
+## Projeto utiliza
+- Ubuntu 22.04.2 LTS
+- vscode
+- Python
+
+
+## Instalar os pacotes 
+```
+sudo apt install python3-pip
+sudo apt install python3.10-venv
+```
+
+## Para rodar o projeto
+
+pip install flask_restplus
+pip install flask_restx
+pip install flask
+pip install Werkzeug
+pip install requests
+pip install lxml 
+
+python3 main.py
+
+
+## Para limpar os pycache
+
+```
+find . | grep -E "(__pycache__|\.pyc|\.pyo$)" | xargs rm -rf
+```
+## Endereço do serviço
+
+http://127.0.0.1:5000/konsi
+
+## Pequena doc
+
+http://127.0.0.1:5000/docs
+
+## Json de Teste:
+{
+       
+        
+            "login": "testekonsi",
+            "senha": "testekonsi",
+            "cpf":["083.019.725-72",
+                    "873.662.745-34",
+                    "103.813.505-25",
+                    "084.339.335-15",
+                    "110.319.805-04",
+                    "082.040.555-87",
+                    "163.951.825-87",
+                    "099.827.953-68",
+                    "118.278.665-00",
+                    "066.118.345-91"]
+}
