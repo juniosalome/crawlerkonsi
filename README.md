@@ -56,6 +56,7 @@ Api rest + swagger + flask + python + thread
 - Ubuntu 22.04.2 LTS
 - vscode
 - Python
+- Postman
 
 
 ## Instalar os pacotes 
