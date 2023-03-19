@@ -66,7 +66,7 @@ sudo apt install python3.10-venv
 ```
 
 ## Para rodar o projeto
-
+```
 pip install flask_restplus
 pip install flask_restx
 pip install flask
@@ -75,7 +75,7 @@ pip install requests
 pip install lxml 
 
 python3 main.py
-
+```
 
 ## Para limpar os pycache
 
