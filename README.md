@@ -94,8 +94,8 @@ http://127.0.0.1:5000/docs
 {
        
         
-            "login": "testekonsi",
-            "senha": "testekonsi",
+            "login": "",
+            "senha": "",
             "cpf":["083.019.725-72",
                     "873.662.745-34",
                     "103.813.505-25",
